@@ -18,8 +18,7 @@ Ferramenta que calcula diferença de valores com base do novo plano FaleMais dis
 ## Layout do Projeto
 Projeto feito responsivo para possuir suporte tanto web quanto mobile.
 ![tela-inicial](https://user-images.githubusercontent.com/77065108/112268474-cb8c2400-8c55-11eb-98d1-654a796dab7d.png)
-![modal-calculo](https://user-images.githubusercontent.com/77065108/112268493-d21a9b80-8c55-11eb-838c-3a1d64b3fe3f.png)
-
+![modal-calculo](https://user-images.githubusercontent.com/77065108/112270538-8f0df780-8c58-11eb-9cb8-e016332bc7d5.png)
 
 ## Como executar o projeto
 
